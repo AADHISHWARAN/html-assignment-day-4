@@ -1,0 +1,21 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .child {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(121, 119, 223);
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  
+  
+  
